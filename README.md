@@ -2,7 +2,7 @@
 
 
 
-- No momento aprendendo java
+- Estudando java
 - Desenvolvendo um jogo RPG em 2d
 
 
