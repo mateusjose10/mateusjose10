@@ -7,19 +7,11 @@
 
 
 ##
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=mateusjose10&custom_title=Mateus%20Jos%C3%A9%20%7C%20stats&show_icons=true&include_all_commits=true&theme=great-gatsby)](https://github-stats-extended.vercel.app/api?username=mateusjose10&custom_title=Mateus%20Jos%C3%A9%20%7C%20stats&show_icons=true&include_all_commits=true&theme=great-gatsby)
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=mateusjose10&layout=compact&langs_count=4&theme=highcontrast)](https://github-stats-extended.vercel.app/api/top-langs?username=mateusjose10&layout=compact&langs_count=4&theme=highcontrast)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=mateusjose10&custom_title=Mateus%20Jos%C3%A9%20%7C%20stats&show_icons=true&include_all_commits=true&theme=great-gatsby)](https://github-stats-extended.vercel.app/api?username=mateusjose10&custom_title=Mateus%20Jos%C3%A9%20%7C%20stats&show_icons=true&include_all_commits=true&theme=great-gatsby)       [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=mateusjose10&layout=compact&langs_count=4&theme=highcontrast)](https://github-stats-extended.vercel.app/api/top-langs?username=mateusjose10&layout=compact&langs_count=4&theme=highcontrast)
        
 
-<div style="display: inline_block"><br>
-<img align="center" alt="Mj-Java" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" /> _ <img align="center" alt="Mj-HTML" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
-       </div>  
+[![My Skills](https://skillicons.dev/icons?i=java,html,vscode,git,github,windows,discord)](https://skillicons.dev)
           
  ##         
-          
- <div> 
-    <a href="https://www.instagram.com/mat3us_j/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/mateus-jos%C3%A9-1a0aa83a0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-        <div>   
-          
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/mat3us_j/) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mateus-jos%C3%A9-1a0aa83a0/)
+
