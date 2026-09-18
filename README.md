@@ -12,10 +12,9 @@
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=mateusjose10&layout=compact&langs_count=4&theme=highcontrast)](https://github-stats-extended.vercel.app/api/top-langs?username=mateusjose10&layout=compact&langs_count=4&theme=highcontrast)
        
 
-##
-<img align="center" alt="Mj-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
-<img align="center" alt="Mj-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" />
-          
+<div style="display: inline_block"><br>
+<img align="center" alt="Mj-Java" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" /> _ <img align="center" alt="Mj-HTML" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
+       </div>  
           
  ##         
           
